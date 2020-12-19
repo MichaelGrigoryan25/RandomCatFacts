@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             getData()
         }
-
     }
 
     private fun getData() {
